@@ -1,0 +1,10 @@
+[
+  {
+    "modid": "mod_PichenkaSkins",
+    "name": "Pichenka Skins",
+    "description": "Loads player skins for Minecraft 1.2.5 from TLauncher, mc-heads, minotar and local files with a configurable priority list. Converts 64x64 skins to legacy 64x32. By pichenka007gd.",
+    "version": "1.0.0",
+    "mcversion": "1.2.5",
+    "authorList": ["pichenka007gd"]
+  }
+]

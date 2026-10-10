@@ -1,0 +1,7 @@
+# Pichenka Skins 1.0.0 by pichenka007gd
+# Skin sources for Minecraft 1.2.5, tried in the order listed in priority.
+# Known sources: local, tlauncher, mc-heads, minotar, official
+# local = .minecraft/skins/<playername>.png (your own file, checked first by default)
+enabled=true
+priority=local,tlauncher,mc-heads,minotar,official
+timeout=5000
