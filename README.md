@@ -51,4 +51,4 @@ Output lands in `build/dist/`. Building needs JDK 17+; the mod itself runs on th
 - Diagnostics: a `pichenka-skins.log` file appears in the game folder — everything the mod does is written there.
 - Classic launchers without FML: extract the contents of the jar into `minecraft.jar` instead (the patched `ahw.class` is included).
 
-by **pichenka007gd** · v1.0.0 · for Minecraft 1.2.5
+by **pichenka007gd** · v1.0.0 · for Minecraft 1.2.5 · [Apache License 2.0](LICENSE)
